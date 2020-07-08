@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/onboardservices/static/css/main.ac4f21d1.chunk.css",
+    "main.js": "/onboardservices/static/js/main.4c34ca3f.chunk.js",
+    "main.js.map": "/onboardservices/static/js/main.4c34ca3f.chunk.js.map",
+    "runtime-main.js": "/onboardservices/static/js/runtime-main.2b33a707.js",
+    "runtime-main.js.map": "/onboardservices/static/js/runtime-main.2b33a707.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/onboardservices/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.3a69be99.chunk.js": "/onboardservices/static/js/2.3a69be99.chunk.js",
+    "static/js/2.3a69be99.chunk.js.map": "/onboardservices/static/js/2.3a69be99.chunk.js.map",
+    "index.html": "/onboardservices/index.html",
+    "precache-manifest.1754e9181ef042ef30751b28de0f7a22.js": "/onboardservices/precache-manifest.1754e9181ef042ef30751b28de0f7a22.js",
+    "service-worker.js": "/onboardservices/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/onboardservices/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.ac4f21d1.chunk.css.map": "/onboardservices/static/css/main.ac4f21d1.chunk.css.map",
+    "static/js/2.3a69be99.chunk.js.LICENSE.txt": "/onboardservices/static/js/2.3a69be99.chunk.js.LICENSE.txt",
+    "static/media/1.jpeg": "/onboardservices/static/media/1.0904417a.jpeg",
+    "static/media/5.jpeg": "/onboardservices/static/media/5.77b8d6ec.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b33a707.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.3a69be99.chunk.js",
+    "static/css/main.ac4f21d1.chunk.css",
+    "static/js/main.4c34ca3f.chunk.js"
+  ]
+}
